@@ -34,14 +34,14 @@ I am a Ph.D. candidate at South China University of Technology (SCUT), advised b
  <li><a href="https://arxiv.org/pdf/2412.12465"><strong>Core Context Aware Transformers for Long Context Language Modeling</strong></a><br>
  <strong>International Conference on Machine Learning (ICML 2025)</strong><br>
 Yaofo Chen $^*$, <u><strong>Zeng You</strong> $^*$</u>, Shuhai Zhang $^*$, Haokun Li, Yirui Li, Yaowei Wang, Mingkui Tan <br>
-<a href="https://arxiv.org/pdf/2412.12465"><strong>PDF</strong></a> / <a href=""><strong>Code</strong></a> / <a href=""><strong>BibTex</strong></a> </li>
+<a href="https://arxiv.org/pdf/2412.12465"><strong>PDF</strong></a> / <a href=""><strong>Code</strong></a> / <a href="./bibs/cca.txt"><strong>BibTex</strong></a> </li>
 <br>
 <!-- icml dga -->
 <li><a href=""><strong>Curse of High Dimensionality Issue in Transformer for Long Context Modeling</strong></a><br>
 <strong>International Conference on Machine Learning (ICML 2025)</strong><br>
 Shuhai Zhang $^*$, <u><strong>Zeng You</strong> $^*$</u>, Yaofo Chen, Zhiquan Wen, Qianyue Wang, Zhijie Qiu, Yuanqing Li, Mingkui Tan <br>
 
-<a href=""><strong>PDF</strong></a> / <a href="https://github.com/bolixinyu/DynamicGroupAttention"><strong>Code</strong></a> / <a href=""><strong>BibTex</strong></a> </li>
+<a href=""><strong>PDF</strong></a> / <a href="https://github.com/bolixinyu/DynamicGroupAttention"><strong>Code</strong></a> / <a href="./bibs/dga.txt"><strong>BibTex</strong></a> </li>
 <br>
 
 <!-- tcsvt fdvs-->
@@ -50,24 +50,26 @@ Shuhai Zhang $^*$, <u><strong>Zeng You</strong> $^*$</u>, Yaofo Chen, Zhiquan We
 
 <u><strong>Zeng You</strong> $^*$</u>, Zhiquan Wen, Yaofo Chen, Xin Li, Runhao Zeng, Yaowei Wang, Mingkui Tan $^*$ <br>
 
-<a href="https://arxiv.org/pdf/2412.06182"><strong>PDF</strong></a> / <a href="https://github.com/bolixinyu/FDVS"><strong>Code</strong></a> / <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:Gmo_jAKncRIJ:scholar.google.com/&output=citation&scisdr=CgKQdzFFELHaqJlsAdw:AAZF9b8AAAAAaCxqGdwpaW9eTddsP-GN7jg9WK0&scisig=AAZF9b8AAAAAaCxqGcrByxcibACIDu_9tZ8clRE&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1"><strong>BibTex</strong></a> </li>
+<a href="https://arxiv.org/pdf/2412.06182"><strong>PDF</strong></a> / <a href="https://github.com/bolixinyu/FDVS"><strong>Code</strong></a> / <a href="./bibs/fdvs.txt"><strong>BibTex</strong></a> </li>
 <br>
 
+<!-- medical -->
 <li><a href="https://ieeexplore.ieee.org/abstract/document/10244004/"><strong>Temporal micro-action localization for videofluoroscopic swallowing study</strong></a> <br>
 
 <strong> IEEE Journal of Biomedical and Health Informatics (2023)</strong> <br>
 
 Xianghui Ruan, Meng Dai, Zhuokun Chen, <u><strong>Zeng You</strong></u>, Yaowen Zhang, Yuanqing Li, Zulin Dou, Mingkui Tan <br>
 
-<a href="https://ieeexplore.ieee.org/abstract/document/10244004/"><strong>PDF</strong></a> / <a href=""><strong>Code</strong></a> / <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:8LjHGuePFpUJ:scholar.google.com/&output=citation&scisdr=CgKQdzFDELHaqJlt2NI:AAZF9b8AAAAAaCxrwNIMRNIf__TtnvC4eIEYmAM&scisig=AAZF9b8AAAAAaCxrwFvlN-mNLGhrW1DABRac5qo&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1"><strong>BibTex</strong></a> </li><br>
+<a href="https://ieeexplore.ieee.org/abstract/document/10244004/"><strong>PDF</strong></a> / <a href=""><strong>Code</strong></a> / <a href="./bibs/videoswallow.txt"><strong>BibTex</strong></a> </li><br>
 
+<!-- frontiers -->
 <li><a href="https://www.frontiersin.org/articles/10.3389/fpubh.2020.584387/full"><strong>Alzheimer's disease classification with a cascade neural network</strong></a><br>
 
 <strong>Frontiers in Public Health (2020)</strong><br>
 
 <u><strong>Zeng You</strong> $^*$</u>, Runhao Zeng $^*$, Xiaoyong Lan $^*$, Huixia Ren, Zhiyang You, Xue Shi, Shipeng Zhao, Yi Guo, Xin Jiang, Xiping Hu <br>
 
-<a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2020.584387/pdf"><strong>PDF</strong></a> / <a href=""><strong>Code</strong></a> / <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:3v_udu_AEOoJ:scholar.google.com/&output=citation&scisdr=CgKQdzFDELHaqJlqDO8:AAZF9b8AAAAAaCxsFO8Z1Kdj52VlDHxG4E7nIhI&scisig=AAZF9b8AAAAAaCxsFN9LBclFrURH04eWZnL_Z1g&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1"><strong>BibTex</strong></a> </li><br>
+<a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2020.584387/pdf"><strong>PDF</strong></a> / <a href=""><strong>Code</strong></a> / <a href="./bibs/cascade.txt"><strong>BibTex</strong></a> </li><br>
 </ul>
 
 # 📖 Educations

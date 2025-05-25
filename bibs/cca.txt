@@ -1,0 +1,6 @@
+@inproceedings{chen2025core,
+      title={Core Context Aware Transformers for Long Context Language Modeling}, 
+      author={Yaofo Chen and Zeng You and Shuhai Zhang and Haokun Li and Yirui Li and Yaowei Wang and Mingkui Tan},
+      year={2025},
+      booktitle={International Conference on Machine Learning},
+}

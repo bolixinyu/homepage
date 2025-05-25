@@ -1,0 +1,9 @@
+@article{you2020alzheimer,
+  title={Alzheimer's disease classification with a cascade neural network},
+  author={You, Zeng and Zeng, Runhao and Lan, Xiaoyong and Ren, Huixia and You, Zhiyang and Shi, Xue and Zhao, Shipeng and Guo, Yi and Jiang, Xin and Hu, Xiping},
+  journal={Frontiers in Public Health},
+  volume={8},
+  pages={584387},
+  year={2020},
+  publisher={Frontiers Media SA}
+}

@@ -1,0 +1,6 @@
+@inproceedings{chen2025core,
+      title={Curse of High Dimensionality Issue in Transformer for Long Context Modeling}, 
+      author={Shuhai Zhang and Zeng You and Yaofo Chen and Zhiquan Wen and Qianyue Wang and Zhijie Qiu and Yuanqing Li and Mingkui Tan},
+      year={2025},
+      booktitle={International Conference on Machine Learning},
+}
