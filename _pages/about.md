@@ -34,14 +34,14 @@ I am a Ph.D. candidate at South China University of Technology (SCUT), advised b
  <li><code>ICML 2025</code> <a href="https://arxiv.org/pdf/2412.12465"><strong>Core Context Aware Transformers for Long Context Language Modeling</strong></a><br>
  <strong>International Conference on Machine Learning (ICML 2025)</strong><br>
 Yaofo Chen $^*$, <u><strong>Zeng You</strong> $^*$</u>, Shuhai Zhang $^*$, Haokun Li, Yirui Li, Yaowei Wang, Mingkui Tan <br>
-<a href="https://arxiv.org/pdf/2412.12465"><strong>PDF</strong></a> / <a href=""><strong>Code</strong></a> / <a href="./bibs/cca.txt"><strong>BibTex</strong></a> </li>
+<a href="https://arxiv.org/pdf/2412.12465"><strong>PDF</strong></a> / <a href=""><strong>Code</strong></a> / <a href="./poster/CCA_Poster.pdf"><strong>Poster</strong></a> / <a href="./slides/CCA_Attention_slides.pdf"><strong>Slides</strong></a> / <a href="./bibs/cca.txt"><strong>BibTex</strong></a> </li>
 <br>
 <!-- icml dga -->
 <li><code>ICML 2025</code> <a href=""><strong>Curse of High Dimensionality Issue in Transformer for Long Context Modeling</strong></a><br>
 <strong>International Conference on Machine Learning (ICML 2025)</strong><br>
 Shuhai Zhang $^*$, <u><strong>Zeng You</strong> $^*$</u>, Yaofo Chen, Zhiquan Wen, Qianyue Wang, Zhijie Qiu, Yuanqing Li, Mingkui Tan <br>
 
-<a href=""><strong>PDF</strong></a> / <a href="https://github.com/bolixinyu/DynamicGroupAttention"><strong>Code</strong></a> / <a href="./bibs/dga.txt"><strong>BibTex</strong></a> </li>
+<a href="https://arxiv.org/pdf/2505.22107v2"><strong>PDF</strong></a> / <a href="https://github.com/bolixinyu/DynamicGroupAttention"><strong>Code</strong></a> / <a href="./bibs/dga.txt"><strong>BibTex</strong></a> </li>
 <br>
 
 <!-- tcsvt fdvs-->
