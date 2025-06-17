@@ -31,13 +31,13 @@ I am a Ph.D. candidate at South China University of Technology (SCUT), advised b
 
 <ul>
 <!-- icml cca -->
- <li><code>ICML 2025</code> <a href="https://bolixinyu.github.io/CCA-Attention-Page/"><strong>Core Context Aware Transformers for Long Context Language Modeling</strong></a><br>
+ <li><code>ICML 2025</code> <a href="https://icml.cc/virtual/2025/poster/45555"><strong>Core Context Aware Transformers for Long Context Language Modeling</strong></a><br>
  <strong>International Conference on Machine Learning (ICML 2025)</strong><br>
 Yaofo Chen $^*$, <u><strong>Zeng You</strong> $^*$</u>, Shuhai Zhang $^*$, Haokun Li, Yirui Li, Yaowei Wang, Mingkui Tan <br>
 <a href="https://arxiv.org/pdf/2412.12465"><strong>PDF</strong></a> / <a href=""><strong>Code</strong></a> / <a href="./poster/CCA_Poster.pdf"><strong>Poster</strong></a> / <a href="./slides/CCA_Attention_slides.pdf"><strong>Slides</strong></a> / <a href="https://bolixinyu.github.io/CCA-Attention-Page/"><strong>Project</strong></a> / <a href="./bibs/cca.txt"><strong>BibTex</strong></a> </li>
 <br>
 <!-- icml dga -->
-<li><code>ICML 2025</code> <a href=""><strong>Curse of High Dimensionality Issue in Transformer for Long Context Modeling</strong></a><br>
+<li><code>ICML 2025</code> <a href="https://icml.cc/virtual/2025/poster/46056"><strong>Curse of High Dimensionality Issue in Transformer for Long Context Modeling</strong></a><br>
 <strong>International Conference on Machine Learning (ICML 2025)</strong><br>
 Shuhai Zhang $^*$, <u><strong>Zeng You</strong> $^*$</u>, Yaofo Chen, Zhiquan Wen, Qianyue Wang, Zhijie Qiu, Yuanqing Li, Mingkui Tan <br>
 
@@ -45,7 +45,7 @@ Shuhai Zhang $^*$, <u><strong>Zeng You</strong> $^*$</u>, Yaofo Chen, Zhiquan We
 <br>
 
 <!-- tcsvt fdvs-->
-<li><code>TCSVT 2024</code> <a href="https://bolixinyu.github.io/FDVS/"><strong>Towards Long Video Understanding via Fine-detailed Video Story Generation</strong></a> <br>
+<li><code>TCSVT 2024</code> <a href="https://ieeexplore.ieee.org/abstract/document/10789221"><strong>Towards Long Video Understanding via Fine-detailed Video Story Generation</strong></a> <br>
 <strong>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2024)</strong><br>
 
 <u><strong>Zeng You</strong> $^*$</u>, Zhiquan Wen, Yaofo Chen, Xin Li, Runhao Zeng, Yaowei Wang, Mingkui Tan $^*$ <br>
