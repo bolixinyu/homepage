@@ -1,0 +1,7 @@
+@article{zhou2025pgfa,
+  title={Zero-shot Skeleton-based Action Recognition with Prototype-guided Feature Alignment},
+  author={Kai Zhou and Shuhai Zhang and Zeng You and Jinwu Hu and Mingkui Tan and Fei Liu},
+  journal={IEEE Transactions on Image Processing},
+  year={2025},
+  publisher={IEEE}
+}

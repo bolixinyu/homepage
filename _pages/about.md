@@ -20,6 +20,7 @@ redirect_from:
 I am a Ph.D. candidate at South China University of Technology (SCUT), advised by Prof. Mingkui Tan. Holding an M.Sc. (2022) and B.Eng. (2020) in Computer Science from SCUT, his research focuses on efficient model architecture design and video understanding. I have published papers in top-tier venues including ICML and IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)with 64 <a href='https://scholar.google.com/citations?user=7xCkJ-QAAAAJ'>Google Scholar citations </a>. Additionally, I have served as a reviewer for NeurIPS and TCSVT, contributing to the academic community's peer review process.
 
 # 🔥 News
+- **2025.07**: &nbsp;🎉🎉 One papers (co-author) accepted by IEEE TIP!
 - **2025.05**: &nbsp;🎉🎉 Two papers (co-first author) accepted at ICML 2025!
 - **2024.12**: &nbsp;🎉🎉 One paper accepted by IEEE TCSVT!
 - **2023.09**: &nbsp;🎉🎉 One paper (co-author) accepted by IEEE  Journal of Biomedical and Health Informatics!
@@ -42,6 +43,13 @@ Yaofo Chen $^*$, <u><strong>Zeng You</strong> $^*$</u>, Shuhai Zhang $^*$, Haoku
 Shuhai Zhang $^*$, <u><strong>Zeng You</strong> $^*$</u>, Yaofo Chen, Zhiquan Wen, Qianyue Wang, Zhijie Qiu, Yuanqing Li, Mingkui Tan <br>
 
 <a href="https://arxiv.org/pdf/2505.22107v2"><strong>PDF</strong></a> / <a href="https://github.com/bolixinyu/DynamicGroupAttention"><strong>Code</strong></a> / <a href="./bibs/dga.txt"><strong>BibTex</strong></a> </li>
+<br>
+
+<li><code>TIP 2025</code> <a href=""><strong>Zero-shot Skeleton-based Action Recognition with Prototype-guided Feature Alignment</strong></a><br>
+<strong>IEEE Transactions on Image Processing (TIP 2025)</strong><br>
+Kai Zhou $^*$, Shuhai Zhang $^*$, <u>Zeng You</u>, Jinwu Hu, Mingkui Tan, Fei Liu<br>
+
+<a href="https://arxiv.org/pdf/2507.00566v1"><strong>PDF</strong></a> / <a href="https://github.com/kaai520/PGFA"><strong>Code</strong></a> / <a href="./bibs/pgfa.txt"><strong>BibTex</strong></a> </li>
 <br>
 
 <!-- tcsvt fdvs-->
