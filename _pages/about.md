@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate at South China University of Technology (SCUT), advised by Prof. Mingkui Tan. Holding an M.Sc. (2022) and B.Eng. (2020) in Computer Science from SCUT, his research focuses on efficient model architecture design and video understanding. I have published papers in top-tier venues including ICML and IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)with 76 <a href='https://scholar.google.com/citations?user=7xCkJ-QAAAAJ'>Google Scholar citations </a>. Additionally, I have served as a reviewer for NeurIPS and TCSVT, contributing to the academic community's peer review process.
+I am a Ph.D. candidate at South China University of Technology (SCUT), advised by Prof. <a href='https://tanmingkui.github.io/'>Mingkui Tan (谭明奎)</a>. Holding an M.Sc. (2022) and B.Eng. (2020) in Computer Science from SCUT, his research focuses on efficient model architecture design and video understanding. I have published papers in top-tier venues including ICML and IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)with 79 <a href='https://scholar.google.com/citations?user=7xCkJ-QAAAAJ'>Google Scholar citations </a>. Additionally, I have served as a reviewer for NeurIPS, TII, and TCSVT, contributing to the academic community's peer review process.
 
 # 🔥 News
 - **2025.06**: &nbsp;🎉🎉 One papers (co-author) accepted by IEEE TIP!
