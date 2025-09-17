@@ -62,7 +62,7 @@ Kai Zhou $^*$, Shuhai Zhang $^*$, <u>Zeng You</u>, Jinwu Hu, Mingkui Tan, Fei Li
 <br>
 
 <!-- medical -->
-<li><code>IEEE Journal of Biomedical and Health Informatics</code> <a href="https://ieeexplore.ieee.org/abstract/document/10244004/"><strong>Temporal micro-action localization for videofluoroscopic swallowing study</strong></a> <br>
+<li><code>J-BHI</code> <a href="https://ieeexplore.ieee.org/abstract/document/10244004/"><strong>Temporal micro-action localization for videofluoroscopic swallowing study</strong></a> <br>
 
 <strong> IEEE Journal of Biomedical and Health Informatics (2023)</strong> <br>
 
