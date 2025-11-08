@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate at South China University of Technology (SCUT), advised by Prof. <a href='https://tanmingkui.github.io/'>Mingkui Tan (谭明奎)</a>. Holding an M.Sc. (2022) and B.Eng. (2020) in Computer Science from SCUT, his research focuses on efficient model architecture design and video understanding. I have published papers in top-tier venues including ICML and IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)with 82 <a href='https://scholar.google.com/citations?user=7xCkJ-QAAAAJ'>Google Scholar citations </a>. Additionally, I have served as a reviewer for NeurIPS, AAAI, TII, and TCSVT, contributing to the academic community's peer review process.
+I am a Ph.D. candidate at South China University of Technology (SCUT), advised by Prof. <a href='https://tanmingkui.github.io/'>Mingkui Tan (谭明奎)</a>. Holding an M.Sc. (2022) and B.Eng. (2020) in Computer Science from SCUT, his research focuses on efficient model architecture design and video understanding. I have published papers in top-tier venues including ICML and IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)with 89 <a href='https://scholar.google.com/citations?user=7xCkJ-QAAAAJ'>Google Scholar citations </a>. Additionally, I have served as a reviewer for NeurIPS, AAAI, TII, and TCSVT, contributing to the academic community's peer review process.
 
 # 🔥 News
+- **2025.11**: &nbsp;🎉🎉 Two papers (co-author) accepted by AAAI 2026!
 - **2025.06**: &nbsp;🎉🎉 One papers (co-author) accepted by IEEE TIP!
 - **2025.05**: &nbsp;🎉🎉 Two papers (co-first author) accepted at ICML 2025!
 - **2024.12**: &nbsp;🎉🎉 One paper accepted by IEEE TCSVT!
@@ -45,13 +46,6 @@ Shuhai Zhang $^*$, <u><strong>Zeng You</strong> $^*$</u>, Yaofo Chen, Zhiquan We
 <a href="https://arxiv.org/pdf/2505.22107v2"><strong>PDF</strong></a> / <a href="https://github.com/bolixinyu/DynamicGroupAttention"><strong>Code</strong></a> / <a href="./bibs/dga.txt"><strong>BibTex</strong></a> </li>
 <br>
 
-<li><code>TIP 2025</code> <a href="https://ieeexplore.ieee.org/document/11083680"><strong>Zero-shot Skeleton-based Action Recognition with Prototype-guided Feature Alignment</strong></a><br>
-<strong>IEEE Transactions on Image Processing (TIP 2025)</strong><br>
-Kai Zhou $^*$, Shuhai Zhang $^*$, <u>Zeng You</u>, Jinwu Hu, Mingkui Tan, Fei Liu<br>
-
-<a href="https://arxiv.org/pdf/2507.00566v1"><strong>PDF</strong></a> / <a href="https://github.com/kaai520/PGFA"><strong>Code</strong></a> / <a href="./bibs/pgfa.txt"><strong>BibTex</strong></a> </li>
-<br>
-
 <!-- tcsvt fdvs-->
 <li><code>TCSVT 2024</code> <a href="https://ieeexplore.ieee.org/abstract/document/10789221"><strong>Towards Long Video Understanding via Fine-detailed Video Story Generation</strong></a> <br>
 <strong>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2024)</strong><br>
@@ -59,6 +53,41 @@ Kai Zhou $^*$, Shuhai Zhang $^*$, <u>Zeng You</u>, Jinwu Hu, Mingkui Tan, Fei Li
 <u><strong>Zeng You</strong> $^*$</u>, Zhiquan Wen, Yaofo Chen, Xin Li, Runhao Zeng, Yaowei Wang, Mingkui Tan $^*$ <br>
 
 <a href="https://arxiv.org/pdf/2412.06182"><strong>PDF</strong></a> / <a href="https://github.com/bolixinyu/FDVS"><strong>Code</strong></a> / <a href="https://bolixinyu.github.io/FDVS/"><strong>Project</strong></a> / <a href="./bibs/fdvs.txt"><strong>BibTex</strong></a> </li>
+<br>
+
+<!-- frontiers -->
+<li><code>Frontiers in Public Health</code> <a href="https://www.frontiersin.org/articles/10.3389/fpubh.2020.584387/full"><strong>Alzheimer's disease classification with a cascade neural network</strong></a><br>
+
+<strong>Frontiers in Public Health (2020)</strong><br>
+
+<u><strong>Zeng You</strong> $^*$</u>, Runhao Zeng $^*$, Xiaoyong Lan $^*$, Huixia Ren, Zhiyang You, Xue Shi, Shipeng Zhao, Yi Guo, Xin Jiang, Xiping Hu <br>
+
+<a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2020.584387/pdf"><strong>PDF</strong></a> / <a href=""><strong>Code</strong></a> / <a href="./bibs/cascade.txt"><strong>BibTex</strong></a> </li><br>
+
+<!-- AAAI procache -->
+<li><code>AAAI 2026</code> <a href="https://openreview.net/pdf?id=z0lDI9kkbt"><strong>ProCache: Constraint-Aware Feature Caching with Selective Computation for Diffusion Transformer Acceleration</strong></a><br>
+
+<strong>AAAI Conference on Artificial Intelligence (AAAI 2026)</strong><br>
+
+Fanpu Cao $^*$, Yaofo Chen $^*$, <u><strong>Zeng You</strong></u>, Wei Luo, Cen Chen<br>
+
+<a href=""><strong>PDF</strong></a> / <a href=""><strong>Code</strong></a> / <a href=""><strong>BibTex</strong></a> </li><br>
+
+<!-- AAAI prvr -->
+<li><code>AAAI 2026</code> <a href="https://openreview.net/pdf?id=en9kU12sW7"><strong>Action-and-object Aware Alignment for Partially Relevant Video Retrieval</strong></a><br>
+
+<strong>AAAI Conference on Artificial Intelligence (AAAI 2026)</strong><br>
+
+Chuanshen Chen $^*$, Kai Zhou $^*$, Zhiquan Wen, <u><strong>Zeng You</strong></u>, Yirui Li, Tianhang Xiang, Mingkui Tan<br>
+
+<a href=""><strong>PDF</strong></a> / <a href=""><strong>Code</strong></a> / <a href=""><strong>BibTex</strong></a> </li><br>
+
+<!-- TIP -->
+<li><code>TIP 2025</code> <a href="https://ieeexplore.ieee.org/document/11083680"><strong>Zero-shot Skeleton-based Action Recognition with Prototype-guided Feature Alignment</strong></a><br>
+<strong>IEEE Transactions on Image Processing (TIP 2025)</strong><br>
+Kai Zhou $^*$, Shuhai Zhang $^*$, <u><strong>Zeng You</strong></u>, Jinwu Hu, Mingkui Tan, Fei Liu<br>
+
+<a href="https://arxiv.org/pdf/2507.00566v1"><strong>PDF</strong></a> / <a href="https://github.com/kaai520/PGFA"><strong>Code</strong></a> / <a href="./bibs/pgfa.txt"><strong>BibTex</strong></a> </li>
 <br>
 
 <!-- medical -->
@@ -70,14 +99,6 @@ Xianghui Ruan, Meng Dai, Zhuokun Chen, <u><strong>Zeng You</strong></u>, Yaowen 
 
 <a href="https://ieeexplore.ieee.org/abstract/document/10244004/"><strong>PDF</strong></a> / <a href=""><strong>Code</strong></a> / <a href="./bibs/videoswallow.txt"><strong>BibTex</strong></a> </li><br>
 
-<!-- frontiers -->
-<li><code>Frontiers in Public Health</code> <a href="https://www.frontiersin.org/articles/10.3389/fpubh.2020.584387/full"><strong>Alzheimer's disease classification with a cascade neural network</strong></a><br>
-
-<strong>Frontiers in Public Health (2020)</strong><br>
-
-<u><strong>Zeng You</strong> $^*$</u>, Runhao Zeng $^*$, Xiaoyong Lan $^*$, Huixia Ren, Zhiyang You, Xue Shi, Shipeng Zhao, Yi Guo, Xin Jiang, Xiping Hu <br>
-
-<a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2020.584387/pdf"><strong>PDF</strong></a> / <a href=""><strong>Code</strong></a> / <a href="./bibs/cascade.txt"><strong>BibTex</strong></a> </li><br>
 </ul>
 
 # 📖 Educations
