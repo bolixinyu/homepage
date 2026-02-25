@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate at South China University of Technology (SCUT), advised by Prof. <a href='https://tanmingkui.github.io/'>Mingkui Tan (谭明奎)</a>. Holding an M.Sc. (2022) and B.Eng. (2020) in Computer Science from SCUT, his research focuses on efficient model architecture design and video understanding. I have published papers in top-tier venues including ICML and IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)with 89 <a href='https://scholar.google.com/citations?user=7xCkJ-QAAAAJ'>Google Scholar citations </a>. Additionally, I have served as a reviewer for NeurIPS, AAAI, TII, and TCSVT, contributing to the academic community's peer review process.
+I am a Ph.D. candidate at South China University of Technology (SCUT), advised by Prof. <a href='https://tanmingkui.github.io/'>Mingkui Tan (谭明奎)</a>. Holding an M.Sc. (2022) and B.Eng. (2020) in Computer Science from SCUT, his research focuses on efficient model architecture design and video understanding. I have published papers in top-tier venues including ICML and IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)with 104 <a href='https://scholar.google.com/citations?user=7xCkJ-QAAAAJ'>Google Scholar citations </a>. Additionally, I have served as a reviewer for NeurIPS, AAAI, ICME, TII, and TCSVT, contributing to the academic community's peer review process.
 
 # 🔥 News
 - **2025.11**: &nbsp;🎉🎉 Two papers (co-author) accepted by AAAI 2026!
@@ -69,7 +69,7 @@ Shuhai Zhang $^*$, <u><strong>Zeng You</strong> $^*$</u>, Yaofo Chen, Zhiquan We
 
 <strong>AAAI Conference on Artificial Intelligence (AAAI 2026)</strong><br>
 
-Fanpu Cao $^*$, Yaofo Chen $^*$, <u><strong>Zeng You</strong></u>, Wei Luo, Cen Chen<br>
+Fanpu Cao $^*$, Yaofo Chen $^*$, <u><strong>Zeng You</strong></u>, Wei Luo<br>
 
 <a href=""><strong>PDF</strong></a> / <a href=""><strong>Code</strong></a> / <a href=""><strong>BibTex</strong></a> </li><br>
 
