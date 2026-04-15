@@ -1,0 +1,9 @@
+@inproceedings{strakova-straka-2025-nametag,
+    title = "Latent-Condensed Transformer for Efficient Long Context Modeling",
+    author = "Zeng You and Yaofo Chen and Qiuwu Chen and Ying Sun and Shuhai Zhang and Yingjian Li and Yaowei Wang and Mingkui Tan",
+    booktitle = "Proceedings of the 64rd Annual Meeting of the Association for Computational Linguistics (ACL 2026)",
+    month = jul,
+    year = "2025",
+    address = "California, United States",
+    publisher = "Association for Computational Linguistics"
+}
