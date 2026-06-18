@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate at South China University of Technology (SCUT), advised by Prof. <a href='https://tanmingkui.github.io/'>Mingkui Tan (谭明奎)</a>. Holding an M.Sc. (2022) and B.Eng. (2020) in Computer Science from SCUT, his research focuses on efficient model architecture design and video understanding. I have published papers in top-tier venues including ICML and IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)with 114 <a href='https://scholar.google.com/citations?user=7xCkJ-QAAAAJ'>Google Scholar citations </a>. Additionally, I have served as a reviewer for NeurIPS, AAAI, ICME, TII, and TCSVT, contributing to the academic community's peer review process.
+I am a Ph.D. candidate at South China University of Technology (SCUT), advised by Prof. <a href='https://tanmingkui.github.io/'>Mingkui Tan (谭明奎)</a>. Holding an M.Sc. (2022) and B.Eng. (2020) in Computer Science from SCUT, his research focuses on efficient model architecture design and video understanding. I have published papers in top-tier venues including ICML and IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) with 141 <a href='https://scholar.google.com/citations?user=7xCkJ-QAAAAJ'>Google Scholar citations </a>. Additionally, I have served as a reviewer for NeurIPS, AAAI, ICME, TII, and TCSVT, contributing to the academic community's peer review process.
 
 # 🔥 News
+- **2026.05**: &nbsp;🎉🎉 One paper (co-author) accepted by ICML 2026!
 - **2026.04**: &nbsp;🎉🎉 One paper accepted by ACL 2026!
 - **2026.03**: &nbsp;🎉🎉 One paper (co-author) accepted by ICME 2026!
 - **2025.11**: &nbsp;🎉🎉 Two papers (co-author) accepted by AAAI 2026!
@@ -40,6 +41,13 @@ I am a Ph.D. candidate at South China University of Technology (SCUT), advised b
  <strong>Annual Meeting of the Association for Computational Linguistics (ACL 2026)</strong><br>
  <u><strong>Zeng You</strong></u>, Yaofo Chen, Qiuwu Chen, Ying Sun, Shuhai Zhang, Yingjian Li, Yaowei Wang, Mingkui Tan<br>
 <a href="https://arxiv.org/pdf/2604.12452"><strong>PDF</strong></a> / <a href="https://github.com/bolixinyu/LCA"><strong>Code</strong></a> / <a href=""><strong>Project</strong></a> / <a href="./bibs/lca.txt"><strong>BibTex</strong></a> </li>
+<br>
+
+<!-- ICML 2026 Lokiformer -->
+ <li><code>ICML 2026</code> <a href="https://icml.cc/virtual/2026/poster/61102"><strong>LoKiFormer: Locality-aware Attention with Decoupled Knowledge Memory for Efficient Large Language Model Pretraining</strong></a><br>
+ <strong>International Conference on Machine Learning (ICML 2026)</strong><br>
+ Qiuwu Chen, Zimo Liu, Yuchen Li, Ying Sun, Yifan Zhang, Zhijie Qiu,  <u><strong>Zeng You</strong></u>, Ryan Dong, Simeng Ma, Yaofo Chen, Mingkui Tan<br>
+<a href="https://openreview.net/pdf?id=tgmYeWfvUU"><strong>PDF</strong></a> / <a href="https://github.com/zliu69/aigcode_lokiformer"><strong>Code</strong></a> / <a href=""><strong>Project</strong></a> / <a href="./bibs/loki.txt"><strong>BibTex</strong></a> </li>
 <br>
 
 <!-- ICME 2026 -->

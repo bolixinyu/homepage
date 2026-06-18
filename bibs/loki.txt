@@ -1,0 +1,6 @@
+@inproceedings{chen2026loki,
+      title={LoKiFormer: Locality-aware Attention with Decoupled Knowledge Memory for Efficient Large Language Model Pretraining}, 
+      author={Qiuwu Chen and Zimo Liu and Yuchen Li and Ying Sun and Yifan Zhang and Zhijie Qiu and Zeng You and Ryan Dong and Simeng Ma and Yaofo Chen and Mingkui Tan},
+      year={2026},
+      booktitle={International Conference on Machine Learning},
+}
