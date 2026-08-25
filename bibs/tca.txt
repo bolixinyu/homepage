@@ -1,0 +1,9 @@
+@ARTICLE{you2026tca,
+  author={You, Zeng and Chen, Yaofo and Zhang, Shuhai and Qiu, Zhijie and Wu, Tingyu and Li, Yingjian and Wang, Yaowei and Tan, Mingkui},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Training-free Context-adaptive Attention for Efficient Long Context Modeling}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-13}
+  }
