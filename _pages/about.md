@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate at South China University of Technology (SCUT), advised by Prof. <a href='https://tanmingkui.github.io/'>Mingkui Tan (谭明奎)</a>. Holding an M.Sc. (2022) and B.Eng. (2020) in Computer Science from SCUT, his research focuses on efficient model architecture design and video understanding. I have published papers in top-tier venues including IEEE TPAMI, IEEE TCSVT, ACL, and ICML with 158 <a href='https://scholar.google.com/citations?user=7xCkJ-QAAAAJ'>Google Scholar citations </a>. Additionally, I have served as a reviewer for NeurIPS, AAAI, ICME, TII, and TCSVT, contributing to the academic community's peer review process.
+I am currently a algorithm engineer at ZYT (卓驭科技). I received my Ph.D. in Electronic Information from South China University of Technology (SCUT), under the supervision of Prof. <a href='https://tanmingkui.github.io/'>Mingkui Tan (谭明奎)</a>. I also hold an M.Sc. (2022) and a B.Eng. (2020) in Computer Science from SCUT. My research interests include efficient model architecture design and video understanding. I have published papers in top-tier venues including IEEE TPAMI, IEEE TCSVT, ACL, and ICML with 172 <a href='https://scholar.google.com/citations?user=7xCkJ-QAAAAJ'>Google Scholar citations </a>. Additionally, I have served as a reviewer for NeurIPS, AAAI, ICME, TII, and TCSVT, contributing to the academic community's peer review process.
 
 # 🔥 News
 - **2026.08**: &nbsp;🎉🎉 One paper accepted by IEEE TPAMI!
@@ -133,8 +133,12 @@ Xianghui Ruan, Meng Dai, Zhuokun Chen, <u><strong>Zeng You</strong></u>, Yaowen 
 
 </ul>
 
+# 💼 Work Experience
+- *2026.09 - now*, ZYT (卓驭科技).
+**Algorithm Engineer**.
+
 # 📖 Educations
-- *2022.09 - now*, Ph.D, South China University of Technology, Guangzhou/Shenzhen. 
+- *2022.09 - 2026.09*, Ph.D, South China University of Technology, Guangzhou/Shenzhen. 
 - *2020.09 - 2022.06*, Master, South China University of Technology, Guangzhou.
 - *2016.09 - 2020.06*, Undergraduate, South China University of Technology, Guangzhou.
 
